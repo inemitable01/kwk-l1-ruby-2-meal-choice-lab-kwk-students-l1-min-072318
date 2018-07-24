@@ -9,7 +9,7 @@ def breakfast (food="frosted flakes")
 end
 breakfast
 
-def meal_choice(food="grilled cheese")
+def meal_choice(lunh="grilled cheese")
 puts ""
 
 
