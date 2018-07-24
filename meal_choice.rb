@@ -7,6 +7,7 @@ end
 def breakfast(food="eggs")
    "Morning is the best time for #{food}!"
 end
+breakfast
 
 
 
