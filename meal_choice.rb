@@ -20,7 +20,11 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-def snacks()
+def snacks
+  puts "Any time. is the right time for#{snacks}"
+ end
+  snacks("Sweedish fish")
+
 
 # Call your methods without any arguments here
 puts snacks
