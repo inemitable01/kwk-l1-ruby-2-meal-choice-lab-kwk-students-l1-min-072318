@@ -9,8 +9,8 @@ def breakfast (food="frosted flakes")
 end
 breakfast
 
-def meal_choice(lunch="grilled cheese")
-puts "12 o clock is the best time for #{lunch}!"
+def lunch(food ="grilled cheese")
+puts "12 o clock is the best time for #{food}!"
 end
 meal_choice
 
