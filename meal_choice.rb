@@ -16,6 +16,7 @@ end
 def dinner(food ="salmon")
   "6 o clock is the best time for #{food}!"
 end
+dinner
 
 
 
