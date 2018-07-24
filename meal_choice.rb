@@ -9,9 +9,8 @@ def breakfast (food="frosted flakes")
 end
 breakfast
 
-
-
-
+def meal_choice(food="grilled cheese")
+puts ""
 
 
 # Call the methods with puts and your own arguments here. Like this:
@@ -20,10 +19,7 @@ puts snacks("Swedish fish")
 
 # call your methods here
 
-def meal_choice
-  puts "Any time, is the right time for #{snacks}!"
- end
-  meal_choice("Sweedish fish")
+
 
 
 # Call your methods without any arguments here
